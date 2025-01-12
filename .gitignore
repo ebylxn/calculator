@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+.vs/ProjectSettings.json
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/calculator/FileContentIndex/0cb6526e-6cf2-48ba-b512-a7d8fe827eb8.vsidx
+.vs/calculator/FileContentIndex/672d5089-65dd-4b48-9b32-1f4149da0d71.vsidx
+.vs/calculator/FileContentIndex/39419157-f8ac-4f4c-baee-be5c545916e6.vsidx
+.vs/calculator/FileContentIndex/e6f31d04-c253-498c-ae58-7bf0bce374ef.vsidx
+.vs/calculator/v17/.wsuo
+.vs/calculator/v17/Browse.VC.db
+.vs/calculator/v17/DocumentLayout.json
